@@ -1,5 +1,5 @@
 
-# Spotify API Integration Project
+# Spotify API Apache Integration
 
 Este proyecto está diseñado para interactuar con la API de Spotify, permitiendo realizar diversas acciones como autenticación, búsqueda de nuevas lanzamientos y creación de playlist en base a generos de los nuevos lanzamientos.
 
